@@ -61,5 +61,3 @@ A stunning, modern portfolio website inspired by Obys Creative Agency. This proj
 - **RemixIcon** (4.7.0) - Beautiful icon library
 
 ---
-
-## 📁 Project Structure
